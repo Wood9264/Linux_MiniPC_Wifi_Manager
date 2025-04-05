@@ -33,7 +33,7 @@ sudo python3 wifi_manager.py
 
 # 配置WiFi、热点的名称和密码
 
-更改main函数中的`target_ssid`、`target_password`、`hotspot_ssid`、`hotspot_password`字符串即可。
+更改main函数中的`target_ssid`、`target_password`、`hotspot_ssid`、`hotspot_password`字符串即可。注意**名称只能包含英文字母和下划线**。
 
 # 开机自启
 
