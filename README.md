@@ -26,7 +26,7 @@ while(1)
 # 安装及启动
 
 ```shell
-git clone https://github.com/Woooooooooood/Linux_MiniPC_Wifi_Manager.git
+git clone https://github.com/Wood9264/Linux_MiniPC_Wifi_Manager.git
 cd Linux_MiniPC_Wifi_Manager/
 sudo python3 wifi_manager.py
 ```
